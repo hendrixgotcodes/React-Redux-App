@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Redux-App.git/static/css/main.194f8aca.chunk.css",
+    "main.js": "/React-Redux-App.git/static/js/main.ab324c39.chunk.js",
+    "main.js.map": "/React-Redux-App.git/static/js/main.ab324c39.chunk.js.map",
+    "runtime-main.js": "/React-Redux-App.git/static/js/runtime-main.31161e1d.js",
+    "runtime-main.js.map": "/React-Redux-App.git/static/js/runtime-main.31161e1d.js.map",
+    "static/js/2.f0ed6b3a.chunk.js": "/React-Redux-App.git/static/js/2.f0ed6b3a.chunk.js",
+    "static/js/2.f0ed6b3a.chunk.js.map": "/React-Redux-App.git/static/js/2.f0ed6b3a.chunk.js.map",
+    "index.html": "/React-Redux-App.git/index.html",
+    "static/css/main.194f8aca.chunk.css.map": "/React-Redux-App.git/static/css/main.194f8aca.chunk.css.map",
+    "static/js/2.f0ed6b3a.chunk.js.LICENSE.txt": "/React-Redux-App.git/static/js/2.f0ed6b3a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/React-Redux-App.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31161e1d.js",
+    "static/js/2.f0ed6b3a.chunk.js",
+    "static/css/main.194f8aca.chunk.css",
+    "static/js/main.ab324c39.chunk.js"
+  ]
+}
